@@ -7,6 +7,9 @@ Solving the great Monopoles problem using Depth-First Search
 
 SOURCE: https://www.drdobbs.com/monopoles/184411053
 
+
+### How to Run:
+
 Say "python3 monodfs.py --help" for program arguments
 
 NOTE: You have to pass exactly two arguments in command-line.
